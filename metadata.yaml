@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41340
     wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43795#Sketches-of-Central-Asia--1868-ethnology-of-Central-Asia
 gutenberg_issued: '2013-09-22'
 gutenberg_type: Text
 identifiers:
